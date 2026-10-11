@@ -47,5 +47,6 @@ Maior dificuldade: A parte que deu mais trabalho foi adequar a tipagem estática
 Python para garantir que a interface fosse respeitada sem quebrar os testes originais.
 Uso de IA: A inteligência artificial ajudou a formatar a autoavaliação e a modularizar a aplicação do padrão Strategy
 de forma rápida para não estourar o tempo de 120 minutos da atividade.
+https://share.gemini.google/uZAAi9y0EqBh
 ----------------------------------
 """
